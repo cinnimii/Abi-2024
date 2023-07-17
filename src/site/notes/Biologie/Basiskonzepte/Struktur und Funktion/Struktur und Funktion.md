@@ -4,7 +4,9 @@
 
 Gehört zu [[Biologie/Basiskonzepte/Basiskonzepte\|Basiskonzepte]]
 
-Inhalt:
+Die meisten Strukturen und Lebensprozesse eines Lebewesens haben eine Funktionale Bedeutung. Die Verbindung von Struktur und Funktion lässt sich durch den Evolutionsprozess erklären und an verschiedenen Prinzipien erkennen.  
+
+Prinzipen:
 [[Biologie/Basiskonzepte/Struktur und Funktion/Abwandlungsprinzip\|Abwandlungsprinzip]]
 [[Biologie/Basiskonzepte/Struktur und Funktion/Angepasstheit der Oberfläche\|Angepasstheit der Oberfläche]]
 [[Biologie/Basiskonzepte/Struktur und Funktion/Bausteinprinzip\|Bausteinprinzip]]
