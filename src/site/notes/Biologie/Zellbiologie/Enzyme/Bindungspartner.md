@@ -3,4 +3,3 @@
 ---
 
 
-[[Biologie/Zellbiologie/Enzyme/Enzymregulation\|Enzymregulation]]
