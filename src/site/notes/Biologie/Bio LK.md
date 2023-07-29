@@ -10,3 +10,4 @@ Inhalt:
 [[Biologie/Genetik/Genetik\|Genetik]]
 [[Biologie/Immunbiologie/Immunbiologie\|Immunbiologie]]
 [[Biologie/Neurobiologie/Neurobiologie\|Neurobiologie]]
+[[Biologie/Ökologie/Ökologie\|Ökologie]]
