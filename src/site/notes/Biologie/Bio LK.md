@@ -8,3 +8,5 @@ Inhalt:
 [[Biologie/Zellbiologie/Zellbiologie\|Zellbiologie]]
 [[Biologie/Stoffwechsel/Stoffwechsel\|Stoffwechsel]]
 [[Biologie/Genetik/Genetik\|Genetik]]
+[[Biologie/Immunbiologie/Immunbiologie\|Immunbiologie]]
+[[Biologie/Neurobiologie/Neurobiologie\|Neurobiologie]]
